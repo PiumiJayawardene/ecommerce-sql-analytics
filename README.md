@@ -18,7 +18,7 @@ in production databases at real companies.
 ## Tools & Techniques
 | Tool/Technique | Purpose |
 |---|---|
-| SQL Server | 8-table relational database |
+| SQL Server | 9-table relational database |
 | CTEs (WITH clause) | Readable multi-step queries |
 | Window functions (RANK, LAG) | Ranking and trend analysis |
 | SQL Views | Reusable reporting layer |
