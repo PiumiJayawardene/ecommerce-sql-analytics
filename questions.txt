@@ -1,0 +1,13 @@
+1. What is the overall order volume and revenue trend month by month?
+
+2. Which product categories generate the most revenue and have best review scores?
+
+3. What is the average delivery time and how does it vary by seller state?
+
+4. Which sellers have the highest order volume and revenue?
+
+5. What is the customer retention rate?
+
+6. What is the order funnel?
+
+7. What is the 90-day cohort retention for customers who first ordered in each month?
